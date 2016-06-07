@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\visual studio 2013\Projects\TestInter\TestInter\bin\TestInter.dll.config
+C:\Users\Admin\Documents\visual studio 2013\Projects\TestInter\TestInter\bin\TestInter.dll
+C:\Users\Admin\Documents\visual studio 2013\Projects\TestInter\TestInter\bin\TestInter.pdb
+C:\Users\Admin\Documents\visual studio 2013\Projects\TestInter\TestInter\bin\Service References.ServiceReference1.Reference.cs.dll
+C:\Users\Admin\Documents\visual studio 2013\Projects\TestInter\TestInter\obj\Release\TestInter.dll
+C:\Users\Admin\Documents\visual studio 2013\Projects\TestInter\TestInter\obj\Release\TestInter.pdb
+C:\Users\Admin\Documents\visual studio 2013\Projects\TestInter\TestInter\obj\Release\TestInter.csprojResolveAssemblyReference.cache

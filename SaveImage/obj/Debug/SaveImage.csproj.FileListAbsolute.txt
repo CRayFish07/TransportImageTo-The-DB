@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TestInter\SaveImage\bin\Debug\SaveImage.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TestInter\SaveImage\bin\Debug\SaveImage.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TestInter\SaveImage\bin\Debug\SaveImage.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TestInter\SaveImage\obj\Debug\SaveImage.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TestInter\SaveImage\obj\Debug\SaveImage.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TestInter\SaveImage\obj\Debug\SaveImage.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TestInter\SaveImage\obj\Debug\SaveImage.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\TestInter\SaveImage\obj\Debug\SaveImage.pdb

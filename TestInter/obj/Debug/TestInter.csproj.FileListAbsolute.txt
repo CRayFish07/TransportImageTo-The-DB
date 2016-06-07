@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\TestInter\TestInter\bin\TestInter.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\TestInter\TestInter\bin\TestInter.dll
+c:\users\admin\documents\visual studio 2013\Projects\TestInter\TestInter\bin\TestInter.pdb
+c:\users\admin\documents\visual studio 2013\Projects\TestInter\TestInter\obj\Debug\TestInter.dll
+c:\users\admin\documents\visual studio 2013\Projects\TestInter\TestInter\obj\Debug\TestInter.pdb
+c:\users\admin\documents\visual studio 2013\Projects\TestInter\TestInter\bin\Service References.ServiceReference1.Reference.cs.dll
